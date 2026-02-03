@@ -1,5 +1,5 @@
 # hotel-booking-analysis
-Exploratory data analysis of hotel booking data using SQL and R
+Exploratory data analysis of hotel booking data using Tableau
 # Hotel Booking Data Analysis
 
 ## 📌Project Overview
