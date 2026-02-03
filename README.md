@@ -5,8 +5,17 @@ Exploratory data analysis of hotel booking data using SQL and R
 ## 📌Project Overview
 This project analyzes hotel booking data to uncover trends in bookings, revenue, cancellations, and hotel type performance.
 An interactive Tableau dashboard was built to support data-driven decision-making for hotel management.
-
 The analysis focuses on time-based trends, seasonality, and comparative performance between City Hotels and Resort Hotels.
+
+## 🔗 Live Tableau Dashboards
+- **Main Dashboard (Bookings, Revenue, Cancellations)**  
+  [https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/views/Book1_v2025_2_17701037913560/HotelBookingPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- **Cancellation Factors Analysis**  
+  [https://public.tableau.com/views/YOUR_CANCELLATION_SHEET_LINK](https://public.tableau.com/views/Book1_v2025_2_17701037913560/LeadTimevsCancellationRateCancellationsFactors?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+  - **Monthly Revenue Trend** 
+https://public.tableau.com/views/Book1_v2025_2_17701037913560/KeyInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 🎯Business Objectives
 - Analyze monthly booking trends
