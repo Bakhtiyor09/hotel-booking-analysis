@@ -14,8 +14,8 @@ The analysis focuses on time-based trends, seasonality, and comparative performa
 - **Cancellation Factors Analysis**  
   [https://public.tableau.com/views/YOUR_CANCELLATION_SHEET_LINK](https://public.tableau.com/views/Book1_v2025_2_17701037913560/LeadTimevsCancellationRateCancellationsFactors?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-  - **Monthly Revenue Trend** 
-https://public.tableau.com/views/Book1_v2025_2_17701037913560/KeyInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+- **Key Insights and Recommendations** 
+[https://public.tableau.com/views/Book1_v2025_2_17701037913560/KeyInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Book1_v2025_2_17701037913560/KeyInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 🎯Business Objectives
 - Analyze monthly booking trends
